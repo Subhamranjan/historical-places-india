@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+    margin: 20px 0px 20px 70px;
+    height: 50px;
+    width: 90%;
+    font-size: 50px;
+    border-radius: 20px;
+}
+
+.left-box {
+    padding: 20px;
+}
+
+.image {
+    height: 400px;
+    width: 600px;
+    margin-left: 53px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px #333;
+}
+
+.content {
+    width: 695px;
+    float: right;
+    position: absolute;
+    left: 705px;
+    bottom: 305px;
+    font-size: 20px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+.content>button , .content1>button,
+.content2>button, .content3>button,
+.content4>button, .content5>button,
+.content6>button, .content7>button{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: solid #333;
+    text-decoration-color: #333;
+}
+
+.right-box {
+    padding: 20px;
+}
+
+.image1 {
+    height: 400px;
+    width: 600px;
+    margin-left: 765px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px #333;
+}
+
+.content1 {
+    width: 695px;
+    float: left;
+    position: absolute;
+    left: 58px;
+    top: 584px;
+    font-size: 20px;
+}
+
+.content2 {
+    width: 695px;
+    float: right;
+    position: absolute;
+    left: 705px;
+    top: 1043px;
+    font-size: 20px;
+}
+
+.content3 {
+    width: 695px;
+    float: left;
+    position: absolute;
+    left: 58px;
+    top: 1475px;
+    font-size: 20px;
+}
+
+.content4 {
+    width: 695px;
+    float: right;
+    position: absolute;
+    left: 705px;
+    top: 1931px;
+    font-size: 20px;
+}
+
+.content5 {
+    width: 695px;
+    float: left;
+    position: absolute;
+    left: 58px;
+    top: 2356px;
+    font-size: 20px;
+}
+
+.content6 {
+    width: 695px;
+    float: right;
+    position: absolute;
+    left: 705px;
+    top: 2817px;
+    font-size: 20px;
+}
+
+.content7 {
+    width: 695px;
+    float: left;
+    position: absolute;
+    left: 58px;
+    top: 3255px;
+    font-size: 20px;
+}
+
+.audio {
+    margin: 20px 0px 20px 600px;
+}
+
+footer {
+    text-align: center;
+    height: 70px;
+    background-color: grey;
+    font-size: 30px;
+    padding: 20px;
+}
